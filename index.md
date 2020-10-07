@@ -12,11 +12,14 @@ Data Scientist at the BBC.
 - [Luke Thorp - LinkedIn](https://www.linkedin.com/in/luke-thorp/)
 
 
-## Experimenting with GitHub pages
+## About me
 
-* [About](about)
-* [markdown](markdown.md)
-* [js](js.md)
-* [jquery](jquery.md)
-* [json](json.md)
+Attending meetups and learning new skills, tools and methodologies is what I do best! I'm an experienced analyst and 
+engineer with a demonstrated history of working in the technology and media industries. Big Data Analysis, Statistical 
+Analysis, Graph Theory, Technical Architecture, Python, R and any flavour of SQL or Cypher (Neo4j). Strong analyst 
+professional with a First Class Bachelor’s Degree focused in Computer Science. I love to learn and have accreditation's 
+from reputable online institutions such as Apache Spark, Data Analysis, Statistical Modelling, Python and Scala. 
+
+I was lucky enough to have my work showcased as part of a keynote speech at the Spark & AI Summit alongside work from 
+Facebook, Microsoft and DataBricks.
 
