@@ -1,4 +1,0 @@
----
-layout: try
----
-hello try
