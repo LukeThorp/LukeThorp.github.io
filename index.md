@@ -1,4 +1,4 @@
-# GitHub Page of Luke Thorp
+# Luke Thorp - GitHub Pages
 
 Trying to write code since 2008.
 
