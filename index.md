@@ -14,9 +14,9 @@ Data Scientist at the BBC.
 
 ## Experimenting with GitHub pages
 
-* [About](/about)
-* [markdown](/markdown)
-* [js](/js)
-* [jquery](/jquery)
-* [json](/json)
+* [About](about)
+* [markdown](markdown.md)
+* [js](js.md)
+* [jquery](jquery.md)
+* [json](json.md)
 
